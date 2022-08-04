@@ -1,0 +1,32 @@
+.newletter {
+    background-color: #d1f9f6;
+    padding: 50px 0;
+    color: #79cac3;
+  }
+  .newletter .right,
+  .newletter .left {
+    padding-right: 50px;
+  }
+  .newletter h1 {
+    color: #79cac3;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+  .newletter .right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .newletter input {
+    width: 100%;
+    padding: 20px;
+    border: none;
+    outline: none;
+    height: 30px;
+  }
+  .newletter i {
+    padding: 12px;
+    color: #15615b;
+    background-color: #79cac3;
+  }
